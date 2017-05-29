@@ -1,0 +1,28 @@
+// .footer{
+//   background-color: 333333;
+//   padding: 30px;
+// }
+
+// .footer a{
+//   color: #CCCCCC;
+//   margin: 10px;
+// }
+
+// .footer p {
+//   color: #CCCCCC;
+// }
+.footer{
+  background-color: #333333;
+  padding: 40px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.footer a{
+  color:white;
+  margin: 10px;
+}
+.footer li{
+  list-style: none;
+  font-size: 10px;
+}
